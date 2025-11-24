@@ -1,0 +1,5 @@
+{
+  "name": "School Paint Pro Estimator",
+  "description": "Professional paint estimator for school buildings. Calculates material and labor costs for renovation or new construction projects, complete with an AI consultant for technical advice.",
+  "requestFramePermissions": []
+}
